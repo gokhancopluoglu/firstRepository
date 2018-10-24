@@ -1,0 +1,1 @@
+Bu branch create edildikten sonra deneme amaçlı create ediken file'dir gerekli commiti yaptıntan sonra push yapılarak test edilecektir yeni brachten master branchine push yapılacaktır 
