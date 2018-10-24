@@ -1,0 +1,1 @@
+Bu level1-file.txt klasörüne yazılan ilk yazıdır.
