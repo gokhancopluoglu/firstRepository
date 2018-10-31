@@ -2,3 +2,4 @@ Bu oluşturulan ilk dosyadır. Tüm hakları saklıdır.
 
 bu diff için eklendi
 
+değşiklik
