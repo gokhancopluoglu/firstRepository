@@ -4,4 +4,6 @@ textmail
 
 :)))
 
+git commit
+
 değişikilik on remote
