@@ -4,3 +4,7 @@ test commit
 
 
 bu addingteki merge sistemi
+
+
+rebased and after commiting
+
