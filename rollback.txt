@@ -8,3 +8,5 @@ bu addingteki merge sistemi
 
 rebased and after commiting
 
+will commit
+
