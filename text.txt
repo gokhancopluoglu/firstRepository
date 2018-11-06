@@ -1,7 +1,0 @@
-Multiblechoice
-as
-branch basics
-
-
-basics
-texttt
