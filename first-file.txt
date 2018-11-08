@@ -9,3 +9,7 @@ git commit
 değişikilik on remote
 
 cmon
+
+
+değişiklik yapmanın tam zamanı
+
